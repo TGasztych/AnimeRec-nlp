@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<!--
+		 Created by XML Export feature at MyAnimeList.net
+		 Version 1.1.0
+		-->
+		
+		<myanimelist>
+		
+			<myinfo>
+				<user_id>18468552</user_id>
+				<user_name>spq40810</user_name>
+				<user_export_type>1</user_export_type>
+				<user_total_anime>10</user_total_anime>
+				<user_total_watching>0</user_total_watching>
+				<user_total_completed>10</user_total_completed>
+				<user_total_onhold>0</user_total_onhold>
+				<user_total_dropped>0</user_total_dropped>
+				<user_total_plantowatch>0</user_total_plantowatch>
+			</myinfo>
+		
+		
+				<anime>
+					<series_animedb_id>36882</series_animedb_id>
+					<series_title><![CDATA[Arifureta Shokugyou de Sekai Saikyou]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>34497</series_animedb_id>
+					<series_title><![CDATA[Death March kara Hajimaru Isekai Kyousoukyoku]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>31859</series_animedb_id>
+					<series_title><![CDATA[Hai to Gensou no Grimgar]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>36407</series_animedb_id>
+					<series_title><![CDATA[Kenja no Mago]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>30831</series_animedb_id>
+					<series_title><![CDATA[Kono Subarashii Sekai ni Shukufuku wo!]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>10</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>10</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>29803</series_animedb_id>
+					<series_title><![CDATA[Overlord]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>39587</series_animedb_id>
+					<series_title><![CDATA[Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>13</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>13</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>35790</series_animedb_id>
+					<series_title><![CDATA[Tate no Yuusha no Nariagari]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>25</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>25</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>37430</series_animedb_id>
+					<series_title><![CDATA[Tensei shitara Slime Datta Ken]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>24</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>24</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>32615</series_animedb_id>
+					<series_title><![CDATA[Youjo Senki]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+			</myanimelist>
+			
